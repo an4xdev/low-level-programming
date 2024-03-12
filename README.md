@@ -25,7 +25,12 @@ where each printed character is assigned a row and column number
 ## Requirements
 
 - [MASM](https://www.masm32.com/ "MASM website")
-- files in include folder
+- .inc and/or .lib files:
+    - fpu
+    - kernel32
+    - masm32
+    - user32
+    - windows
 
 ## PL
 
@@ -52,4 +57,9 @@ gdzie każdemu znaku drukowanemu zostaje przypisany numer wiersza i kolumny
 ## Wymagania
 
 - [MASM](https://www.masm32.com/ "strona MASM")
-- pliki w folderze include
+- .inc i/lub .lib pliki:
+    - fpu
+    - kernel32
+    - masm32
+    - user32
+    - windows
